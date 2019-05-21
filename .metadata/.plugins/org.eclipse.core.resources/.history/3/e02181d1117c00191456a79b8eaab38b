@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:f="http://xmlns.jcp.org/jsf/core">
+ 
+ 
+<ui:composition template="/template/layoutBase.xhtml">
+ 
+	<ui:define name="content">
+ 
+	    Sistema para cadastro de pessoas
+	     <div class="card" style="margin-left: 2em">
+			<img src="../resources/imagens/livro.jpg" class="img_card"  alt="Avatar" style="width: 100%"/>
+				<div class="container">
+					<h4>
+						<b>Quantidade de Livros Cadastrados</b>
+					</h4>
+					<p>Architect  Engineer</p>
+				</div>
+		</div>
+
+
+	</ui:define>
+ 
+</ui:composition>
+</html>

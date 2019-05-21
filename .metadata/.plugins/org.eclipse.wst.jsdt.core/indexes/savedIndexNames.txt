@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2962374644.index
+1220370098.index
+3124905565.index
+2433642946.index
+3417337804.index
+241581480.index
+4248872071.index
+1967636737.index

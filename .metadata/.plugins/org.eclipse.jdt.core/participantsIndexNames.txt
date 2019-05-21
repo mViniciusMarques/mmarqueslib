@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2962374644.index
+\marqlib\src\main\resources
+C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3417337804.index
+\b2oteca\src\main\resources

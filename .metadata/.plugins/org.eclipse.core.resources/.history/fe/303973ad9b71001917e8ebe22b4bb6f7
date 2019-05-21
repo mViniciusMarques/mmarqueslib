@@ -1,0 +1,5 @@
+package br.mmarques.commons.commons;
+
+public class Greeter {
+
+}

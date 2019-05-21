@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/tomcat-test">
+  <Resource
+    name="BeanManager"
+    auth="Container"
+    type="javax.enterprise.inject.spi.BeanManager"
+    factory="org.jboss.weld.resources.ManagerObjectFactory"/>
+    
+    <Resource name="jdbc/lab_prog" auth="Container" 
+          type="javax.sql.DataSource" 
+          username="root" password="root"
+          driverClassName="com.mysql.jdbc.Driver"
+          url="jdbc:mysql://localhost:3306/lab_prog"/>
+
+	<context-param>
+		<param-name>facelets.LIBRARIES</param-name>
+		<param-value>/WEB-INF/LocalDateTimeConverter-taglib.xml</param-value>
+	</context-param>
+</Context>
