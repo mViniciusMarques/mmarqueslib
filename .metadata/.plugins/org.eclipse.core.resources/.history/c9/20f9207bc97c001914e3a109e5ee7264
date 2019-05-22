@@ -1,0 +1,134 @@
+package entity;
+
+import java.io.Serializable;
+import javax.persistence.*;
+import java.util.List;
+
+
+/**
+ * The persistent class for the tb_usuario database table.
+ * 
+ */
+@Entity
+@Table(name="tb_usuario")
+@NamedQuery(name="TbUsuario.findAll", query="SELECT t FROM TbUsuario t")
+public class TbUsuario implements Serializable {
+	private static final long serialVersionUID = 1L;
+
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	@Column(name="id_usuario")
+	private int idUsuario;
+
+	@Column(name="ds_login")
+	private String dsLogin;
+
+	@Column(name="ds_senha")
+	private String dsSenha;
+
+	//bi-directional many-to-one association to TbEmprestimo
+	@OneToMany(mappedBy="tbUsuario")
+	private List<TbEmprestimo> tbEmprestimos;
+
+	//bi-directional many-to-one association to TbPessoa
+	@OneToMany(mappedBy="tbUsuario")
+	private List<TbPessoa> tbPessoas;
+
+	//bi-directional many-to-one association to TbReserva
+	@OneToMany(mappedBy="tbUsuario")
+	private List<TbReserva> tbReservas;
+
+	public TbUsuario() {
+	}
+
+	public int getIdUsuario() {
+		return this.idUsuario;
+	}
+
+	public void setIdUsuario(int idUsuario) {
+		this.idUsuario = idUsuario;
+	}
+
+	public String getDsLogin() {
+		return this.dsLogin;
+	}
+
+	public void setDsLogin(String dsLogin) {
+		this.dsLogin = dsLogin;
+	}
+
+	public String getDsSenha() {
+		return this.dsSenha;
+	}
+
+	public void setDsSenha(String dsSenha) {
+		this.dsSenha = dsSenha;
+	}
+
+	public List<TbEmprestimo> getTbEmprestimos() {
+		return this.tbEmprestimos;
+	}
+
+	public void setTbEmprestimos(List<TbEmprestimo> tbEmprestimos) {
+		this.tbEmprestimos = tbEmprestimos;
+	}
+
+	public TbEmprestimo addTbEmprestimo(TbEmprestimo tbEmprestimo) {
+		getTbEmprestimos().add(tbEmprestimo);
+		tbEmprestimo.setTbUsuario(this);
+
+		return tbEmprestimo;
+	}
+
+	public TbEmprestimo removeTbEmprestimo(TbEmprestimo tbEmprestimo) {
+		getTbEmprestimos().remove(tbEmprestimo);
+		tbEmprestimo.setTbUsuario(null);
+
+		return tbEmprestimo;
+	}
+
+	public List<TbPessoa> getTbPessoas() {
+		return this.tbPessoas;
+	}
+
+	public void setTbPessoas(List<TbPessoa> tbPessoas) {
+		this.tbPessoas = tbPessoas;
+	}
+
+	public TbPessoa addTbPessoa(TbPessoa tbPessoa) {
+		getTbPessoas().add(tbPessoa);
+		tbPessoa.setTbUsuario(this);
+
+		return tbPessoa;
+	}
+
+	public TbPessoa removeTbPessoa(TbPessoa tbPessoa) {
+		getTbPessoas().remove(tbPessoa);
+		tbPessoa.setTbUsuario(null);
+
+		return tbPessoa;
+	}
+
+	public List<TbReserva> getTbReservas() {
+		return this.tbReservas;
+	}
+
+	public void setTbReservas(List<TbReserva> tbReservas) {
+		this.tbReservas = tbReservas;
+	}
+
+	public TbReserva addTbReserva(TbReserva tbReserva) {
+		getTbReservas().add(tbReserva);
+		tbReserva.setTbUsuario(this);
+
+		return tbReserva;
+	}
+
+	public TbReserva removeTbReserva(TbReserva tbReserva) {
+		getTbReservas().remove(tbReserva);
+		tbReserva.setTbUsuario(null);
+
+		return tbReserva;
+	}
+
+}

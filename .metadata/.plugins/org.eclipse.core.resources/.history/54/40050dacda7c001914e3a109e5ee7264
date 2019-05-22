@@ -1,0 +1,24 @@
+package repository;
+
+import java.io.Serializable;
+
+import javax.inject.Inject;
+import javax.persistence.EntityManager;
+
+import Utils.Uteis;
+import entity.AssuntoEntity;
+
+public class AssuntoRepository implements Serializable {
+
+	static final long serialVersionUID = 3415630528254824885L;
+
+	@Inject
+	AssuntoEntity assuntoEntity;
+	
+	EntityManager entityManager;
+	
+	 public void recuperar() {
+		entityManager =  Uteis.JpaEntityManager();
+		this.entityManager.createNativeQuery("SELECT t FROM tb_assunto t", AssuntoEntity.class).getResultList();
+	}
+}

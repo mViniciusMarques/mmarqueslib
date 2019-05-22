@@ -1,0 +1,112 @@
+package entity;
+
+import java.io.Serializable;
+import javax.persistence.*;
+
+
+/**
+ * The persistent class for the tb_pessoa database table.
+ * 
+ */
+@Entity
+@Table(name="tb_pessoa")
+@NamedQuery(name="TbPessoa.findAll", query="SELECT t FROM TbPessoa t")
+public class TbPessoa implements Serializable {
+	private static final long serialVersionUID = 1L;
+
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	@Column(name="id_pessoa")
+	private int idPessoa;
+
+	@Column(name="ds_email")
+	private String dsEmail;
+
+	@Column(name="ds_endereco")
+	private String dsEndereco;
+
+	@Lob
+	@Column(name="dt_cadastro")
+	private byte[] dtCadastro;
+
+	private String fl_origemCadastro;
+
+	@Column(name="fl_sexo")
+	private String flSexo;
+
+	@Column(name="nm_pessoa")
+	private String nmPessoa;
+
+	//bi-directional many-to-one association to TbUsuario
+	@ManyToOne
+	@JoinColumn(name="id_usuario_cadastro")
+	private TbUsuario tbUsuario;
+
+	public TbPessoa() {
+	}
+
+	public int getIdPessoa() {
+		return this.idPessoa;
+	}
+
+	public void setIdPessoa(int idPessoa) {
+		this.idPessoa = idPessoa;
+	}
+
+	public String getDsEmail() {
+		return this.dsEmail;
+	}
+
+	public void setDsEmail(String dsEmail) {
+		this.dsEmail = dsEmail;
+	}
+
+	public String getDsEndereco() {
+		return this.dsEndereco;
+	}
+
+	public void setDsEndereco(String dsEndereco) {
+		this.dsEndereco = dsEndereco;
+	}
+
+	public byte[] getDtCadastro() {
+		return this.dtCadastro;
+	}
+
+	public void setDtCadastro(byte[] dtCadastro) {
+		this.dtCadastro = dtCadastro;
+	}
+
+	public String getFl_origemCadastro() {
+		return this.fl_origemCadastro;
+	}
+
+	public void setFl_origemCadastro(String fl_origemCadastro) {
+		this.fl_origemCadastro = fl_origemCadastro;
+	}
+
+	public String getFlSexo() {
+		return this.flSexo;
+	}
+
+	public void setFlSexo(String flSexo) {
+		this.flSexo = flSexo;
+	}
+
+	public String getNmPessoa() {
+		return this.nmPessoa;
+	}
+
+	public void setNmPessoa(String nmPessoa) {
+		this.nmPessoa = nmPessoa;
+	}
+
+	public TbUsuario getTbUsuario() {
+		return this.tbUsuario;
+	}
+
+	public void setTbUsuario(TbUsuario tbUsuario) {
+		this.tbUsuario = tbUsuario;
+	}
+
+}

@@ -9,6 +9,13 @@
             ARQUIVO DE PERSISTÊNCIA JPA E HIBERNATE            
         </description>
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>entity.AssuntoEntity</class>
+        <class>entity.AutorEntity</class>
+        <class>entity.EditoraEntity</class>
+        <class>entity.TbEmprestimo</class>
+        <class>entity.TbExemplar</class>
+        <class>entity.TbLivro</class>
+        <class>entity.TbReserva</class>
  
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />

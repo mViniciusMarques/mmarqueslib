@@ -1,0 +1,21 @@
+package repository;
+
+import java.io.Serializable;
+
+import javax.inject.Inject;
+import javax.persistence.EntityManager;
+
+import Utils.Uteis;
+
+public class AssuntoRepository implements Serializable {
+
+	@Inject
+	AssuntoRepository assuntoRepository;
+	
+	EntityManager entityManager;
+	
+	 public void recuperar() {
+		entityManager =  Uteis.JpaEntityManager();
+		this.entityManager.createNamedQuery("SELECT * FROM tb_assunto", AssuntoRepository.class);
+	}
+}

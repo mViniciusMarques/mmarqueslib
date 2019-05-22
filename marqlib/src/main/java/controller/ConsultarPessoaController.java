@@ -10,6 +10,7 @@ import javax.inject.Inject;
 import javax.inject.Named;
 
 import model.PessoaModel;
+import repository.AssuntoRepository;
 import repository.PessoaRepository;
  
 
@@ -28,6 +29,9 @@ public class ConsultarPessoaController implements Serializable {
  
 	@Inject transient
 	private PessoaRepository pessoaRepository;
+	
+	@Inject transient
+	private AssuntoRepository assuntoRepository;
  
 	public List<PessoaModel> getPessoas() {
 		return pessoas;
@@ -49,6 +53,7 @@ public class ConsultarPessoaController implements Serializable {
 	public void init(){
  
 		//RETORNAR AS PESSOAS CADASTRADAS
+		this.assuntoRepository.recuperar();
 		this.pessoas = pessoaRepository.GetPessoas();
 	}
 	
