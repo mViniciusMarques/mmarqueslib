@@ -1,0 +1,10 @@
+package controller;
+
+import javax.enterprise.context.RequestScoped;
+import javax.inject.Named;
+
+@Named(value="homeController")
+@RequestScoped
+public class HomeController {
+
+}

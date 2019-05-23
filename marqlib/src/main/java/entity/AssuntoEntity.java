@@ -17,8 +17,10 @@ public class AssuntoEntity implements Serializable {
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
+	@Column(name = "id")
 	private int id;
 
+	@Column(name = "assunto")
 	private String assunto;
 
 	//bi-directional many-to-many association to TbLivro

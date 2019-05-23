@@ -2142,3 +2142,478 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact javax:javaee-
 2019-05-22 18:43:45,384 [Worker-110: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-05-22 18:43:45,393 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-05-22 18:43:45,406 [Worker-110: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-22 18:43:45,423 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:44:13,949 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:44:13,967 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 09:44:13,975 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:44:13,986 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:44:44,814 [Worker-287: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:44:44,820 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 09:44:44,826 [Worker-287: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:44:44,836 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:45:12,066 [Worker-287: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:45:12,082 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:45:12,100 [Worker-287: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:45:12,119 [Worker-287: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:46:03,060 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:46:03,071 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:46:03,080 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:46:03,108 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:46:56,401 [Worker-288: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:46:56,409 [Worker-288: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:46:56,415 [Worker-288: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:46:56,426 [Worker-288: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:49:41,555 [Worker-289: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:49:41,571 [Worker-289: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:49:41,589 [Worker-289: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:49:41,639 [Worker-289: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:49:53,130 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:49:53,148 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:49:53,158 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:49:53,188 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:50:18,871 [Worker-290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:50:18,882 [Worker-290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:50:18,893 [Worker-290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:50:18,917 [Worker-290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:50:36,152 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:50:36,179 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:50:36,195 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:50:36,216 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:51:26,354 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:51:26,374 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:51:26,411 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:51:26,452 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:52:53,027 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:52:53,054 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:52:53,071 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:52:53,093 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:55:14,935 [Worker-290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:55:14,961 [Worker-290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:55:14,985 [Worker-290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:55:15,091 [Worker-290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:55:44,624 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:55:44,632 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:55:44,639 [Worker-112: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:55:44,651 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 09:57:38,838 [Worker-293: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:57:38,848 [Worker-293: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 09:57:38,856 [Worker-293: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 09:57:38,867 [Worker-293: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:06:15,829 [Worker-295: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:06:15,837 [Worker-295: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:06:15,843 [Worker-295: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:06:15,855 [Worker-295: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:06:18,326 [Worker-294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:06:18,332 [Worker-294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:06:18,339 [Worker-294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:06:18,350 [Worker-294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:06:54,844 [Worker-290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:06:54,853 [Worker-290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:06:54,860 [Worker-290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:06:54,872 [Worker-290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:12:59,040 [Worker-291: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:12:59,046 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:12:59,053 [Worker-291: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:12:59,065 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:17:23,119 [Worker-306: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:17:23,130 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:17:23,140 [Worker-306: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:17:23,151 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:18:15,689 [Worker-305: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:18:15,703 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:18:15,713 [Worker-305: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:18:15,732 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:18:50,110 [Worker-291: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:18:50,127 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:18:50,137 [Worker-291: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:18:50,149 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:19:13,774 [Worker-291: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:19:13,812 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:19:13,827 [Worker-291: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:19:13,857 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:20:39,781 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:20:39,791 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:20:39,797 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:20:39,809 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:30:00,825 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:30:00,841 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:30:00,857 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:30:00,884 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:32:08,743 [Worker-308: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:32:08,781 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:32:08,799 [Worker-308: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:32:08,821 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:33:01,074 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:33:01,082 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:33:01,088 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:33:01,100 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:33:14,460 [Worker-309: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:33:14,477 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:33:14,492 [Worker-309: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:33:14,537 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:33:38,178 [Worker-309: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:33:38,187 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:33:38,192 [Worker-309: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:33:38,203 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:34:33,246 [Worker-310: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:34:33,254 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:34:33,260 [Worker-310: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:34:33,273 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:34:56,868 [Worker-310: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:34:56,879 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:34:56,886 [Worker-310: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:34:56,896 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:36:05,999 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:36:06,055 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:36:06,062 [Worker-304: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:36:06,132 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:38:05,121 [Worker-309: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:38:05,130 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:38:05,136 [Worker-309: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:38:05,148 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:38:49,465 [Worker-311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:38:49,477 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:38:49,488 [Worker-311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:38:49,504 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:39:28,968 [Worker-312: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:39:28,976 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:39:28,982 [Worker-312: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:39:28,993 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:40:00,042 [Worker-308: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:40:00,058 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:40:00,069 [Worker-308: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:40:00,082 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:40:45,581 [Worker-308: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:40:45,589 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:40:45,595 [Worker-308: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:40:45,606 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:41:08,278 [Worker-310: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:41:08,288 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:41:08,295 [Worker-310: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:41:08,308 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:41:44,785 [Worker-311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:41:44,794 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:41:44,801 [Worker-311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:41:44,812 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:41:47,077 [Worker-310: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:41:47,085 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:41:47,091 [Worker-310: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:41:47,103 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:45:03,737 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:45:03,762 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:45:03,779 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:45:03,816 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:46:08,450 [Worker-316: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.mmarques:marqlib:0.0.1-SNAPSHOT @ C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\pom.xml.
+2019-05-23 10:46:09,066 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:46:09,886 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:46:11,880 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:46:12,914 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:46:12,927 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 10:46:12,933 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:46:12,939 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:46:12,945 [Worker-316: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of marqlib
+2019-05-23 10:46:12,946 [Worker-316: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for marqlib
+2019-05-23 10:46:12,956 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:46:14,637 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.pom
+2019-05-23 10:46:14,900 [Worker-316: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.mmarques:marqlib:0.0.1-SNAPSHOT @ C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\pom.xml.
+2019-05-23 10:46:14,918 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.pom
+2019-05-23 10:46:15,100 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.11.2/log4j-2.11.2.pom
+2019-05-23 10:46:15,426 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.11.2/log4j-2.11.2.pom
+2019-05-23 10:46:15,609 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom
+2019-05-23 10:46:15,692 [Worker-316: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.11.2/log4j-2.11.2.pom
+2019-05-23 10:46:15,778 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom
+2019-05-23 10:46:15,949 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.pom
+2019-05-23 10:46:16,141 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.pom
+2019-05-23 10:46:16,159 [Worker-290: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:46:16,350 [Worker-316: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.11.2/log4j-2.11.2.pom
+2019-05-23 10:46:16,363 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar
+2019-05-23 10:46:16,382 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:46:16,574 [Worker-316: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar
+2019-05-23 10:46:17,358 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar
+2019-05-23 10:46:17,517 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar
+2019-05-23 10:46:17,975 [Worker-316: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar
+2019-05-23 10:46:18,138 [Worker-316: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar
+2019-05-23 10:46:19,229 [Worker-290: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar
+2019-05-23 10:46:19,720 [Worker-316: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar
+2019-05-23 10:46:19,976 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:46:20,807 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:46:20,819 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 10:46:20,825 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:46:20,835 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:46:20,836 [Worker-316: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of marqlib
+2019-05-23 10:46:20,840 [Worker-316: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for marqlib
+2019-05-23 10:46:20,844 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:46:21,818 [Worker-313: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:46:22,573 [Worker-313: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2-sources.jar
+2019-05-23 10:46:23,147 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:46:23,155 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:46:23,174 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:46:23,181 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:46:23,661 [Worker-313: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2-sources.jar
+2019-05-23 10:46:23,851 [Worker-313: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.11.2
+2019-05-23 10:46:24,010 [Worker-313: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2-sources.jar
+2019-05-23 10:46:25,563 [Worker-313: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2-sources.jar
+2019-05-23 10:46:25,752 [Worker-313: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-core:2.11.2
+2019-05-23 10:46:27,585 [Worker-315: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.mmarques:marqlib:0.0.1-SNAPSHOT @ C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\pom.xml.
+2019-05-23 10:46:27,692 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:46:28,181 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:46:28,491 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:46:28,505 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 10:46:28,512 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:46:28,520 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:46:28,525 [Worker-315: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of marqlib
+2019-05-23 10:46:28,525 [Worker-315: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for marqlib
+2019-05-23 10:46:28,529 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:53:10,522 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:53:10,552 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:53:10,564 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:53:10,582 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:53:10,590 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:53:20,758 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:53:20,765 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 10:53:20,769 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:53:20,775 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:57:02,572 [Worker-315: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.mmarques:marqlib:0.0.1-SNAPSHOT @ C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\pom.xml.
+2019-05-23 10:57:02,691 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:57:02,779 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:57:03,203 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:57:03,547 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:57:03,555 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 10:57:03,564 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:57:03,573 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:57:03,579 [Worker-315: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of marqlib
+2019-05-23 10:57:03,579 [Worker-315: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for marqlib
+2019-05-23 10:57:03,583 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:57:05,556 [Worker-324: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2019-05-23 10:57:05,767 [Worker-324: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:57:05,781 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 10:57:05,801 [Worker-324: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:57:05,809 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 10:59:56,154 [Worker-323: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:59:56,164 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 10:59:56,165 [Worker-323: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 10:59:56,171 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:00:22,950 [Worker-324: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:00:22,965 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 11:00:22,972 [Worker-324: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:00:22,979 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:00:50,326 [Worker-323: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:00:50,333 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 11:00:50,335 [Worker-323: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:00:50,341 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:04:17,122 [Worker-324: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:04:17,133 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 11:04:17,140 [Worker-324: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:04:17,147 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:04:19,496 [Worker-321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:04:19,512 [Worker-321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 11:04:19,515 [Worker-321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:04:19,525 [Worker-321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:09:27,376 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:09:27,389 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 11:09:27,397 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:09:27,407 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:12:32,939 [Worker-329: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:12:32,951 [Worker-329: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 11:12:32,954 [Worker-329: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:12:32,963 [Worker-329: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:13:46,530 [Worker-329: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:13:46,545 [Worker-329: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 11:13:46,551 [Worker-329: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:13:46,558 [Worker-329: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:14:23,723 [Worker-326: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:14:23,729 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 11:14:23,730 [Worker-326: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:14:23,736 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:19:41,662 [Worker-331: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:19:41,676 [Worker-331: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 11:19:41,682 [Worker-331: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:19:41,688 [Worker-331: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:49:16,399 [Worker-340: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:49:16,416 [Worker-340: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 11:49:16,417 [Worker-340: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:49:16,438 [Worker-340: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 11:49:18,710 [Worker-342: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:49:18,721 [Worker-342: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 11:49:18,727 [Worker-342: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 11:49:18,733 [Worker-342: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 13:38:07,539 [Worker-370: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 13:38:07,551 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 13:38:07,553 [Worker-370: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 13:38:07,559 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:01:04,052 [Worker-388: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:01:04,065 [Worker-388: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 14:01:04,087 [Worker-388: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:01:04,093 [Worker-388: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:01:32,079 [Worker-389: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:01:32,114 [Worker-389: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 14:01:32,116 [Worker-389: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:01:32,151 [Worker-389: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:05:01,770 [Worker-387: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:05:01,784 [Worker-387: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 14:05:01,790 [Worker-387: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:05:01,796 [Worker-387: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:05:06,429 [Worker-390: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:05:06,435 [Worker-390: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 14:05:06,437 [Worker-390: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:05:06,443 [Worker-390: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:05:37,660 [Worker-390: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:05:37,671 [Worker-390: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 14:05:37,677 [Worker-390: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:05:37,684 [Worker-390: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:29:00,831 [Worker-399: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:29:00,844 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 14:29:00,846 [Worker-399: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:29:00,855 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:29:03,333 [Worker-401: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:29:03,348 [Worker-401: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 14:29:03,356 [Worker-401: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:29:03,363 [Worker-401: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:30:08,909 [Worker-398: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:30:08,917 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 14:30:08,920 [Worker-398: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:30:08,927 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:31:26,214 [Worker-400: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:31:26,228 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 14:31:26,237 [Worker-400: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:31:26,256 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:31:33,611 [Worker-400: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:31:33,623 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 14:31:33,625 [Worker-400: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:31:33,636 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:37:22,552 [Worker-386: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:37:22,564 [Worker-386: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 14:37:22,570 [Worker-386: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:37:22,576 [Worker-386: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:37:57,661 [Worker-405: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:37:57,671 [Worker-405: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 14:37:57,672 [Worker-405: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:37:57,678 [Worker-405: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:40:03,206 [Worker-408: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:40:03,239 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 14:40:03,253 [Worker-408: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:40:03,264 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 14:43:53,224 [Worker-390: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:43:53,233 [Worker-390: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 14:43:53,234 [Worker-390: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 14:43:53,240 [Worker-390: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:04:41,452 [Worker-419: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:04:41,461 [Worker-419: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:04:41,467 [Worker-419: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:04:41,474 [Worker-419: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:12:26,093 [Worker-421: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:12:26,107 [Worker-421: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 15:12:26,110 [Worker-421: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:12:26,129 [Worker-421: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:14:25,481 [Worker-425: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:14:25,497 [Worker-425: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:14:25,504 [Worker-425: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:14:25,511 [Worker-425: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:17:43,594 [Worker-425: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:17:43,621 [Worker-425: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:17:43,623 [Worker-425: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:17:43,696 [Worker-425: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:18:39,123 [Worker-427: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:18:39,145 [Worker-427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 15:18:39,151 [Worker-427: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:18:39,159 [Worker-427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:19:43,251 [Worker-416: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:19:43,263 [Worker-416: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:19:43,265 [Worker-416: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:19:43,273 [Worker-416: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:20:12,731 [Worker-428: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:20:12,744 [Worker-428: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-23 15:20:12,760 [Worker-428: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:20:12,768 [Worker-428: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:22:37,159 [Worker-427: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:22:37,169 [Worker-427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:22:37,170 [Worker-427: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:22:37,176 [Worker-427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:25:14,501 [Worker-424: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:25:14,525 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:25:14,532 [Worker-424: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:25:14,539 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:33:35,632 [Worker-433: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:33:35,640 [Worker-433: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:33:35,641 [Worker-433: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:33:35,649 [Worker-433: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:33:41,524 [Worker-423: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:33:41,537 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:33:41,542 [Worker-423: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:33:41,548 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:38:08,575 [Worker-437: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:38:08,586 [Worker-437: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:38:08,588 [Worker-437: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:38:08,611 [Worker-437: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:38:38,349 [Worker-427: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:38:38,364 [Worker-427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:38:38,371 [Worker-427: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:38:38,379 [Worker-427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:42:13,493 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:42:13,503 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:42:13,505 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:42:13,529 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:45:28,426 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:45:28,484 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:45:28,498 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:45:28,505 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 15:53:44,966 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:53:44,977 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 15:53:44,979 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 15:53:44,985 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 16:06:27,874 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:06:27,885 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 16:06:27,894 [Worker-438: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:06:27,902 [Worker-438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 16:08:29,351 [Worker-447: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:08:29,361 [Worker-447: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 16:08:29,363 [Worker-447: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:08:29,371 [Worker-447: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 16:16:10,322 [Worker-462: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:16:10,339 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 16:16:10,345 [Worker-462: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:16:10,353 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 16:20:00,157 [Worker-461: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:20:00,166 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 16:20:00,168 [Worker-461: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:20:00,175 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 16:20:01,524 [Worker-464: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:20:01,536 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-23 16:20:01,543 [Worker-464: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:20:01,549 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 16:25:19,440 [Worker-468: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:25:19,447 [Worker-468: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 16:25:19,448 [Worker-468: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:25:19,455 [Worker-468: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 16:31:39,181 [Worker-466: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:31:39,188 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 16:31:39,194 [Worker-466: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:31:39,201 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 16:32:02,948 [Worker-474: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:32:02,954 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 16:32:02,955 [Worker-474: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 16:32:02,962 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 17:20:08,293 [Worker-491: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:20:08,357 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 17:20:08,374 [Worker-491: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:20:08,390 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 17:21:24,654 [Worker-495: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:21:24,665 [Worker-495: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 17:21:24,668 [Worker-495: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:21:24,681 [Worker-495: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 17:21:40,976 [Worker-491: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:21:41,018 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 17:21:41,027 [Worker-491: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:21:41,033 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 17:22:20,865 [Worker-494: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:22:20,874 [Worker-494: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 17:22:20,876 [Worker-494: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:22:20,892 [Worker-494: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 17:22:33,453 [Worker-491: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:22:33,469 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 17:22:33,475 [Worker-491: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:22:33,483 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources
+2019-05-23 17:23:10,622 [Worker-491: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:23:10,628 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-23 17:23:10,629 [Worker-491: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-05-23 17:23:10,637 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\marqlib\src\test\resources

@@ -53,7 +53,6 @@ public class ConsultarPessoaController implements Serializable {
 	public void init(){
  
 		//RETORNAR AS PESSOAS CADASTRADAS
-		this.assuntoRepository.recuperar();
 		this.pessoas = pessoaRepository.GetPessoas();
 	}
 	

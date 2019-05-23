@@ -5,5 +5,7 @@ INDEX VERSION 1.4+C:\Users\mvmarques2\Documents\ProjetosSSD\LPSWD\.metadata\.plu
 4248872071.index
 2039853199.index
 1967636737.index
+1967636737.index
+241581480.index
 189597706.index
 2036321721.index

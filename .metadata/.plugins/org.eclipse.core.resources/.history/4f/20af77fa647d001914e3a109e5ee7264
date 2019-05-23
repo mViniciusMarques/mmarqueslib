@@ -1,0 +1,14 @@
+<html xmlns:p="http://primefaces.org/ui">
+<body>
+<div style="text-align: center;">
+
+<p:dock position="bottom">
+    <p:menuitem value="Home" icon="/resources/imagens/locked.png" url="#"/>
+    <p:menuitem value="Music" icon="/resources/imagens/locked.png" url="#"/>
+
+</p:dock>
+
+Por Marcus Vinicius Marques
+</div>
+</body>
+</html>

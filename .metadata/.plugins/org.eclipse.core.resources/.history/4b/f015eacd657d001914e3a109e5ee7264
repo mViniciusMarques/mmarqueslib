@@ -1,0 +1,25 @@
+package controller;
+
+import javax.enterprise.context.RequestScoped;
+import javax.inject.Inject;
+import javax.inject.Named;
+
+import model.PessoaModel;
+import repository.PessoaRepository;
+
+@Named(value="cadastrarLivroController")
+@RequestScoped
+public class CadastrarLivroController {
+	
+	@Inject
+	PessoaModel pessoaModel;
+ 
+	@Inject
+	UsuarioController usuarioController;
+ 
+	@Inject
+	PessoaRepository pessoaRepository;
+	
+	
+
+}

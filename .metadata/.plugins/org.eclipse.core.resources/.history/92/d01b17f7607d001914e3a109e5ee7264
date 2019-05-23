@@ -1,0 +1,12 @@
+package controller;
+
+import java.io.Serializable;
+
+import javax.enterprise.context.RequestScoped;
+import javax.inject.Named;
+
+@Named(value="cadastrarAssuntoController")
+@RequestScoped
+public class CadastrarAssuntoController implements Serializable {
+
+}

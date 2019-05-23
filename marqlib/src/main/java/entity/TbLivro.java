@@ -69,10 +69,6 @@ public class TbLivro implements Serializable {
 		return this.id;
 	}
 
-	public void setId(int id) {
-		this.id = id;
-	}
-
 	public int getAno() {
 		return this.ano;
 	}

@@ -1,0 +1,49 @@
+package repository;
+
+import java.io.Serializable;
+
+import javax.inject.Inject;
+import javax.persistence.EntityManager;
+
+import Utils.Uteis;
+import builder.QueryBuilder;
+import entity.AssuntoEntity;
+import model.AssuntoModel;
+
+public class AssuntoRepository implements Serializable {
+
+	static final long serialVersionUID = 3415630528254824885L;
+	
+	private final String TABELA = "tb_assunto";
+
+	@Inject
+	AssuntoEntity assuntoEntity;
+	
+	EntityManager entityManager;
+	
+	public AssuntoRepository() {
+		entityManager =  Uteis.JpaEntityManager();
+	}
+	
+	
+	public void salvarAssunto(AssuntoModel assuntoModel) {
+		//entityManager =  Uteis.JpaEntityManager();
+		assuntoEntity.setAssunto(assuntoModel.getAssunto());
+	
+		this.entityManager.persist(assuntoEntity);
+	}
+	
+	 public void recuperar() {
+		this.entityManager.createNativeQuery("SELECT * FROM tb_assunto ", AssuntoEntity.class).getResultList();
+	}
+	 
+	 public void recuperarAssuntoPorId(Integer id) {
+		 QueryBuilder builder = new QueryBuilder.Builder()
+				 .from(TABELA)
+				 .where("id_assunto")
+				 .igual(id.toString())
+				 .build();
+		 
+		 this.entityManager.createNativeQuery(builder.toString(), AssuntoEntity.class).getSingleResult();
+	 }
+}
